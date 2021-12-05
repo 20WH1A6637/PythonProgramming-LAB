@@ -1,0 +1,23 @@
+1.     A - Simply Strange Sort
+
+2.     A - Dragons
+
+3.     B - Interesting drink
+
+4.     C - K-th Not Divisible by n
+
+5.     B - Sort the Array
+
+6.     B - K-th Beautiful String
+
+7.     B - Sorted Adjacent Differences
+
+8.     A - Vanya and Fence
+
+9.     A - Magnets
+
+10.  A - Puzzles
+
+11.  A - Wrong Subtraction
+
+12.  A - Anton and Danik
